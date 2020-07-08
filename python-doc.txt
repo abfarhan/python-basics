@@ -1,0 +1,2 @@
+To start python interpreter in command prompt run 'python'.
+'exit()' to stop the python interpreter.
